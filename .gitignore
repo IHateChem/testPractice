@@ -361,3 +361,57 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.conda
+/.conda/pkgs
+/.data/imdb
+/.idlerc
+/.data/imdb
+/.idlerc
+/.ipynb_checkpoints
+/.VirtualBox
+/.ipynb_checkpoints
+/.ipython/profile_default/startup
+/.jupyter
+/.matplotlib
+/.matplotlib
+/.matplotlib
+/.vector_cache
+/.vscode
+/3D Objects
+/AppData/Local/Arduino15
+/AppData/Local/Comms
+/AppData
+/Contacts
+/Downloads
+/Favorites
+/Music
+/OneDrive
+/Searches
+/sklearn-venv
+/source/repos/Algorithms_HW1
+/Saved Games
+/Links
+/IntelGraphicsProfiles
+/Documents
+/source/repos/HW3
+/source/repos/IAB
+/source/repos/IHateChem
+/source/repos/OSTree
+/source/repos/Project1
+/source/repos/Project2
+/source/repos/PythonApplication1
+/source/repos/PythonApplication2
+/Videos
+/VirtualBox VMs/CA_bluespec
+/Untitled.ipynb
+/Basics_of_Python_Numpy_Matplotlib.ipynb
+/Basics_of_Python_Numpy_Matplotlib_sol.ipynb
+/import numpy as np.py
+/NTUSER.DAT
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/NTUSER.DAT{f41b7a5e-ab9d-11ec-a691-b96ed7c62ff7}.TM.blf
+/NTUSER.DAT{f41b7a5e-ab9d-11ec-a691-b96ed7c62ff7}.TMContainer00000000000000000001.regtrans-ms
+/.lesshst
+/NTUSER.DAT{f41b7a5e-ab9d-11ec-a691-b96ed7c62ff7}.TMContainer00000000000000000002.regtrans-ms
+/ntuser.ini

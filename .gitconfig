@@ -1,0 +1,6 @@
+[core]
+	editor = code
+	autocrlf = true
+[user]
+	name = LEE
+	email = syleelsw@gmail.com

@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <cstring>
+#include <string.h> 
 
 int main() {
 
